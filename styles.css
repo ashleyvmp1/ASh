@@ -7,11 +7,11 @@
 :root {
     --Preto: #000000;
     /* Cor laranja para destaque */
-    --alto-contraste-fundo: #37f8ff;
+    --alto-contraste-fundo: #9e37ff;
     /* Cor de fundo para modo alto contraste */
     --alto-contraste-texto: #000000;
     /* Cor de texto para modo alto contraste */
-    --alto-contraste-link: #9900ff;
+    --alto-contraste-link: #00aeff;
     /* Cor de links para modo alto contraste */
 }
 
